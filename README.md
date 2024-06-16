@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm tiny</h1>
-<h3 align="center">A passionate back end developer</h3>
+<h3 align="center">Back end developer enthusiast</h3>
 <img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW03M2lnYnRoOXo2d3diYWlpdTZidHZzcHVybHlwc3JxbmdtdjV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1CrvUCoMxhy8/giphy.webp" alt=":p">
 
 
