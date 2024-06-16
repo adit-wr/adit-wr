@@ -1,0 +1,3 @@
+- 👋 Hello, World!
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning Web Developer
