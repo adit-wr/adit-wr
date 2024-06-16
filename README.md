@@ -1,9 +1,8 @@
 <h1 align="center">Hello 👋, I'm tiny</h1>
 <h3 align="center">A passionate back end developer</h3>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW03M2lnYnRoOXo2d3diYWlpdTZidHZzcHVybHlwc3JxbmdtdjV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1CrvUCoMxhy8/giphy.webp" alt=":p">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-wr&label=Profile%20views&color=ff0000&style=plastic" alt="adit-wr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adit-wr" alt="adit-wr" /></a> </p>
 
 - 🌱 I’m currently learning **you :p**
 
